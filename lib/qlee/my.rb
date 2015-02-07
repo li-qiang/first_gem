@@ -9,7 +9,7 @@ module Qlee
 		}
 
 		def introduce
-			logger = logger.new
+			logger = Logger.new
 			QLEE.each {|key, value| logger << "#{key.capitalize}: #{value}" }
 			logger.out
 		end
