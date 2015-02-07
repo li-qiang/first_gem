@@ -4,7 +4,7 @@ module Qlee
 		QLEE = {
 			name: '李强',
 			email: 'kata.Qlee@gmail.com',
-			phone: '187****2025'
+			phone: '187****2025',
 			remark: 'Thank you'
 		}
 
